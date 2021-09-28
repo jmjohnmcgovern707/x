@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
         className="App-link"
-        href="https://chatscroll.com"
+        href="https://sports.chatscroll.com"
         target="_blank"
         rel="noopener noreferrer"
         >
-          chatscrollgggg
+          chatscroll for sports
         </a>
         <a
           className="App-link"
