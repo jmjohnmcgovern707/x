@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+      
+        
         <p>
          Chat Social Media Subjects Index
         </p>
@@ -35,7 +35,7 @@ function App() {
         </a>
         
        
-      </header>
+      
     </div>
   );
 }
