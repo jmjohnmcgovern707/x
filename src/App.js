@@ -11,6 +11,14 @@ function App() {
         </p>
         <a
         className="App-link"
+        href="https://jesuschrist.chatscroll.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          chatscroll for Jesus Christ
+        </a>
+        <a
+        className="App-link"
         href="https://chatscroll.com"
         target="_blank"
         rel="noopener noreferrer"
