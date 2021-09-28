@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
          Chat Social Media Subjects Index
         </p>
@@ -33,14 +33,7 @@ function App() {
         >
           chatscroll for sports
         </a>
-        <a
-        className="App-link"
-        href="https://x.com"
-        target="_blank"
-        rel="noopener noreferrer"
-        >
-          chatscroll for x
-        </a>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
