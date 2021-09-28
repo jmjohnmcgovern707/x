@@ -34,6 +34,14 @@ function App() {
           chatscroll for sports
         </a>
         <a
+        className="App-link"
+        href="https://x.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          chatscroll for x
+        </a>
+        <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
